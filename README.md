@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhishek Pawar
 
-🚀 **Full Stack Developer | MERN Enthusiast | Open Source Contributor**
+🚀 **Full Stack Developer | AI-ML Enthusiast | Open Source Contributor**
 
 Welcome to my GitHub profile! I love building web apps, exploring new technologies, and sharing what I learn with the community.
 
