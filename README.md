@@ -28,8 +28,8 @@ Welcome to my GitHub profile! I love building web apps, exploring new technologi
 ---
 
 ## 🌐 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)  
-- 📧 Email: abhipawar01@gmail.com  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/abhishek-pawar-9854042b0/)  
+- 📧 Email: abhishekpawar969696@gmail.com  
 
 ---
 
