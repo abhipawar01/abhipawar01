@@ -1,52 +1,51 @@
-# 👋 Hi, I'm Abhishek Pawar
+ <div align="center">
 
-🚀 **Full Stack Developer | AI-ML Enthusiast | Open Source Contributor**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0891b2&height=170&section=header&text=Abhishek%20Pawar&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" alt="Abhishek Pawar"/>
 
-Welcome to my GitHub profile! I love building web apps, exploring new technologies, and sharing what I learn with the community.
+<a href="https://readme-typing-svg.demolab.com/">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=550&lines=Building+intelligent+systems+%F0%9F%A4%96;Exploring+Agentic+AI+%F0%9F%A7%A0;Code.+Experiment.+Build.+Repeat.+%E2%9A%A1" alt="Typing animation"/>
+</a>
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-abhipawar01-181717?style=flat-square&logo=github)](https://github.com/abhipawar01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhishek-pawar-9854042b0/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhishekpawar969696@gmail.com)
 
-## 💻 Tech Stack
-- **Frontend:** React, Next.js, TailwindCSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, MySQL
-- **Others:** Git, REST APIs, JWT Auth, Vercel/Netlify Deployments
-
----
-
-## 🌟 Featured Projects
-- 🔗 [Talksy](https://github.com/abhipawar01/Talksy) – AI-powered chat application (live on Vercel)  
-- 🔗 [Ease-Trip](https://github.com/abhipawar01/Ease-Trip) – MERN-based travel booking system  
-- 🔗 [MealMates](https://github.com/abhipawar01/MealMates) – Social meal planning and sharing app  
+</div>
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhipawar01&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhipawar01&layout=compact&theme=radical)  
+### 👨‍💻 About Me
+
+Software engineer exploring the intersection of **Generative AI, Agentic AI, and software engineering.**
+
+Currently at **Tata Technologies**, working on AI-powered enterprise solutions and intelligent automation.
+
+Interested in building reliable AI systems, understanding how things work under the hood, and turning complex ideas into practical solutions.
+
+### ⚡ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,js,ts,java,cpp,docker,git" alt="Technology stack"/>
+</p>
+
+`LLMs` · `AI Agents` · `RAG` · `LangChain` · `Langfuse` · `Hugging Face` · `Ollama`
+
+### 📡 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhipawar01" width="100%" alt="GitHub contribution timeline"/>
+
+<img src="https://streak-stats.demolab.com?user=abhipawar01&theme=github-dark-blue&hide_border=true&background=0D1117" width="100%" alt="GitHub contribution streak"/>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/abhishek-pawar-9854042b0/)  
-- 📧 Email: abhishekpawar969696@gmail.com  
+<div align="center">
 
----
+💡 *Build things that matter. Understand what you build.*
 
-⭐️ *"Code is like humor. When you have to explain it, it’s bad."*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,100:000000&height=3&section=footer" width="100%" alt="Footer accent"/>
 
-
-<!--
-**abhipawar01/abhipawar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
