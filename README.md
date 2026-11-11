@@ -48,7 +48,6 @@ No more alt-tabbing to the terminal every time an agent asks *"can I run this?"*
 `Windows 10+` · `macOS 12+ (Apple silicon & Intel)` · `Private beta`
 
 [![Isle](https://img.shields.io/badge/Isle-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://isle-site.pages.dev)
-[![Download](https://img.shields.io/badge/Download-181717?style=for-the-badge&logo=github)](https://github.com/abhipawar01/isle-releases/releases/latest)
 
 </td>
 <td width="50%" valign="top">
